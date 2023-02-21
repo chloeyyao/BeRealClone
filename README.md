@@ -2,7 +2,7 @@
 
 Submitted by: **Chloe Yao**
 
-**Name of your app** is an app that allows users to post and see other users' posts.
+**BeReal Clone** is an app that allows users to post and see other users' posts.
 
 Time spent: **2.5** hours spent in total
 
